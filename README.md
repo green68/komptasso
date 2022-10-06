@@ -21,8 +21,10 @@
 
 
 ### DONE :
-<!-- 2022-10-03 -->
-- [x] set auto folio in BankItem & CashItem 
+<!-- 2022-10-05 -->
+- [x] change design cards (bank & cash)
+
+- [x] set auto folio in BankItem & CashItem <!-- 2022-10-03 -->
 - [x] delete folio in BankItem & CashItem
 - [x] bankItem card add cheque
 
@@ -63,26 +65,26 @@
 - [x] create first tests for App, BankItem, Year, Years <!-- 2022-07-21 :  -->
 - [x] create class for App, BankItem, Year, Years
     
-        
-
-
 ## Les tests
 
 * pour lancer les tests: 
 
         npm run test
 
-## Documentation :
+## Documentations :
 
-    * [documentation jest](https://jestjs.io/fr/)
-    * [vscode-jest](https://github.com/jest-community/vscode-jest#getting-started)
-    * [hack pour gh-page](https://github.com/rafgraph/spa-github-pages)
-    * [simple drag and drop file upload](https://codepen.io/dcode-software/pen/xxwpLQo?editors=0010)
-    * [drag and drop file upload](https://codepen.io/joezimjs/pen/yPWQbd?editors=0010)
+* [documentation jest](https://jestjs.io/fr/)
+
+* [vscode-jest](https://github.com/jest-community/vscode-jest#getting-started)
+
+* [hack pour gh-page](https://github.com/rafgraph/spa-github-pages)
+* [simple drag and drop file upload](https://codepen.io/dcode-software/pen/xxwpLQo?editors=0010)
+
+* [drag and drop file upload](https://codepen.io/joezimjs/pen/yPWQbd?editors=0010)
 
 ## Autres infos
 
-[Getting Started with Create React App](/react-app-readme.md)
+* [Getting Started with Create React App](/react-app-readme.md)
 
 
 

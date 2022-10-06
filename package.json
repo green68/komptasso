@@ -1,8 +1,8 @@
 {
-  "name": "alain-krav",
+  "name": "komptasso",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://green68.github.io/kravmaga68/",
+  "homepage": "https://green68.github.io/komptasso/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",

@@ -1,6 +1,6 @@
 {
-  "short_name": "Kravmaga",
-  "name": "Kravmaga Mulhouse",
+  "short_name": "Komptasso",
+  "name": "Komptasso",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/kravmaga68/",
+  "start_url": "/komptasso/",
   "display": "standalone",
   "orientation": "portrait",
   "theme_color": "#000000",

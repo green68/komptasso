@@ -1,4 +1,4 @@
-# Application Kravmaga Comptabilité
+# Application Komptasso
 
 ## Documentations utiles :
 

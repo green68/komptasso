@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kravmaga68/static/css/main.73f95e92.css",
+    "main.js": "/kravmaga68/static/js/main.e74a94ec.js",
+    "static/media/icon.png": "/kravmaga68/static/media/icon.3237daa0e04081d8a3a9.png",
+    "index.html": "/kravmaga68/index.html",
+    "main.73f95e92.css.map": "/kravmaga68/static/css/main.73f95e92.css.map",
+    "main.e74a94ec.js.map": "/kravmaga68/static/js/main.e74a94ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73f95e92.css",
+    "static/js/main.e74a94ec.js"
+  ]
+}

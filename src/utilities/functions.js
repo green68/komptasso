@@ -7,7 +7,7 @@ const isJSON = datas => {
     }
 }
 
-const Pathname = "kravmaga68/"
+const Pathname = "komptasso/"
 const pathTo = menu => Pathname + menu
 
 const downloadFile = (content, fileName, contentType) => {

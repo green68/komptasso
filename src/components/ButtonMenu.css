@@ -1,0 +1,22 @@
+.menu {
+  display: inline-flex;
+  gap: 0.2rem;
+  padding: 0.5rem;
+  border: 1px solid white;
+  border-radius: 0.2rem;
+  background-color: transparent;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 500ms, color 500ms;
+}
+.menu svg {
+  width: 1.2rem;
+  height: 1.2rem;
+  /* vertical-align: text-top; */
+}
+.menu.active {
+  background-color: white;
+  color: var(--clr-dark);
+  cursor: default;
+}

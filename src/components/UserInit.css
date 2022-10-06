@@ -1,0 +1,50 @@
+input:-internal-autofill-selected {
+    appearance: menulist-button;
+    background-image: none;
+    background-color: -internal-light-dark(rgb(232, 240, 254), rgba(70, 90, 126, 0.4));
+    color: fieldtext;
+}
+
+.modal-content {
+    background: linear-gradient(135deg, var(--clr-dark), var(--clr-dark-blue));
+}
+
+.modal-header {
+    border-bottom-color: transparent;
+
+}
+
+.modal-footer {
+    border-top: transparent;
+}
+
+.input-control,
+.form-control,
+.form-select {
+    border: 3px solid white;
+}
+
+.input-control.is-valid,
+.form-control.is-valid,
+.form-select.is-valid,
+.input-control.is-invalid,
+.form-control.is-invalid,
+.form-select.is-invalid
+{
+    background-image: none;
+    padding-inline: 0.75rem;
+}
+
+.input-control:focus,
+.form-control:focus,
+.form-select:focus,
+.input-control.is-valid:focus,
+.form-control.is-valid:focus,
+.form-select.is-valid:focus ,
+.input-control.is-invalid:focus,
+.form-control.is-invalid:focus,
+.form-select.is-invalid:focus
+{
+    box-shadow: 0 0 0 0.4rem rgba(228, 228, 235, 0.25);
+}
+

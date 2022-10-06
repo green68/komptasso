@@ -1,0 +1,30 @@
+.modal-icon {
+    position: absolute;
+    display: grid;
+    place-items: center;
+    font-size: 3rem;
+    width: 6rem;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    border: 1px solid var(--modal-outline-color);
+    left: 50%;
+    /* old synthaxe */
+    /* transform: translate(-50%, -30%); */
+    translate: -50% -30%;
+    background-color: var(--bs-dark);
+    color: var(--modal-outline-color);
+    /* color: var(--bs-light); */
+}
+
+.modal.fade .modal-dialog {
+    transition: transform .3s ease-out;
+    transform: translate( 0, -20%);
+}
+.modal.show .modal-dialog {
+    transform: none;
+}
+
+.modal-content{
+    outline: 1px solid var(--modal-outline-color, transparent);
+    margin-top: 4rem;
+}
